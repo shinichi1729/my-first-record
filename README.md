@@ -1,2 +1,2 @@
-# my-first-record
-This is a trial.
+# Data-Structure
+Union-find / Fenwick-Tree
