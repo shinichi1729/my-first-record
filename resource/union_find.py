@@ -48,13 +48,13 @@ class UnionFind(object):
 
 
 if __name__ == '__main__':
-    N = 10
-    uf = UnionFind(N)
-    uf.union(1, 4)
-    uf.union(2, 8)
-    uf.union(1, 9)
-    print(uf.parent)
-    uf.union(3, 4)
-    uf.union(0, 3)
-    print(uf)
+#     N = 10
+#     uf = UnionFind(N)
+#     uf.union(1, 4)
+#     uf.union(2, 8)
+#     uf.union(1, 9)
+#     print(uf.parent)
+#     uf.union(3, 4)
+#     uf.union(0, 3)
+#     print(uf)
 
