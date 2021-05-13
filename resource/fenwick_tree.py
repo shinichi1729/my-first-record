@@ -1,3 +1,12 @@
+"""
+calculates the sum of a range [l, r] (Al + ... + Ar) in O(logN) time.
+update the value of an element of A in O(logN) time.
+require O(N) memory, it's the same memory required of A.
+this is also called Binary Indexed Tree (BIT)
+"""
+
+
+
 class FenWickTree(object):
     def __init__(self, n):
         self._n = n
